@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ### Step 1: Create and Configure the Azure Virtual Machine
 
 <p>
-<img width="1837" height="846" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="2557" height="870" alt="image" src="https://github.com/user-attachments/assets/4e54ecde-369a-4614-a1a3-968f38d24add" />
 </p>
 
 <p>
@@ -44,16 +44,16 @@ Logged into Microsoft Azure and created a Resource Group named "osTicket" to org
 <br />
 
 <p>
-<img width="1873" height="924" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="2547" height="867" alt="image" src="https://github.com/user-attachments/assets/7689fd21-d49e-4862-a86a-c002d41cd7f6" />
 </p>
 
 <p>
-Created a Virtual Network named "ticket-vnet" inside the osTicket resource group. This virtual network allows the virtual machine and services to communicate properly within Azure.
+Created a Virtual Network named "osTicket-vnet" inside the osTicket resource group. This virtual network allows the virtual machine and services to communicate properly within Azure.
 </p>
 <br />
 
 <p>
-<img width="1874" height="881" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="1874" height="881" alt="image" src="https://github.com/user-attachments/assets/eb63a889-70ab-4c95-9fbd-92365ffe4529" />
 </p>
 
 <p>
@@ -62,16 +62,16 @@ Created a Windows 10 Virtual Machine named "ost-vm" inside the osTicket resource
 <br />
 
 <p>
-<img width="1142" height="542" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="826" height="752" alt="image" src="https://github.com/user-attachments/assets/6e2ea18c-6acf-4961-b9e4-99bfaa756b3e" />
 </p>
 
 <p>
-For the operating system image, selected Windows 10 Enterprise 22H2 x64 Gen2. The virtual machine size selected was Standard D2s v3 with 2 vCPUs.
+For the operating system image, select Windows 10 Enterprise 22H2 x64 Gen2. The virtual machine size selected was Standard D2s v3 with 2 vCPUs.
 </p>
 <br />
 
 <p>
-<img width="1870" height="879" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="852" height="582" alt="image" src="https://github.com/user-attachments/assets/94c813bc-14a4-4311-80c1-de04fd175de6" />
 </p>
 
 <p>
@@ -85,17 +85,17 @@ These credentials are only used for the lab environment.
 <br />
 
 <p>
-<img width="1870" height="882" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="847" height="626" alt="image" src="https://github.com/user-attachments/assets/13a8c432-ab0c-47e3-9b1c-0717443086a5" />
 </p>
 
 <p>
-Verified the correct Virtual Network was selected under the Networking tab before reviewing and creating the virtual machine deployment.
+Verified the correct Virtual Network was selected under the Networking tab before reviewing and creating the virtual machine.
 </p>
 
 ### Step 2: Connect to the Virtual Machine Using Remote Desktop
 
 <p>
-<img width="976" height="566" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="982" height="602" alt="image" src="https://github.com/user-attachments/assets/dd4dca63-1a94-46b1-b9f4-bb5300003d08" />
 </p>
 
 <p>
@@ -106,12 +106,12 @@ Opened Remote Desktop Connection on the local computer and used the public IP ad
 ### Step 3: Download osTicket Installation Files
 
 <p>
-<img width="362" height="156" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="135" height="221" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="396" height="121" alt="image" src="https://github.com/user-attachments/assets/694bb585-fb3a-46b5-a4b6-11d8732c6f9e" />
+<img width="967" height="421" alt="image" src="https://github.com/user-attachments/assets/1a046ccf-1710-451f-9aa9-a7831130f97c" />
 </p>
 
 <p>
-Inside the virtual machine, downloaded the osTicket Installation Files package and extracted the folder contents onto the desktop for easier access during installation.
+Inside the virtual machine, I downloaded the osTicket Installation Files package and extracted its contents to the desktop for easier access during installation.
 </p>
 <br />
 
