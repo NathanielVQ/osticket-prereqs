@@ -202,8 +202,8 @@ Installed MySQL Server, which will host the osTicket database and store all tick
 <br />
 
 <p>
-<img width="488" height="386" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="492" height="381" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="456" height="352" alt="image" src="https://github.com/user-attachments/assets/cfde8ee2-9d71-48f4-b83c-224477f58e0e" />
+<img width="447" height="347" alt="image" src="https://github.com/user-attachments/assets/46056953-b467-490e-8752-8da93a145c5c" />
 </p>
 
 <p>
@@ -212,8 +212,8 @@ Selected Typical Setup during the MySQL installation process and enabled the MyS
 <br />
 
 <p>
-<img width="494" height="375" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="494" height="376" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="460" height="341" alt="image" src="https://github.com/user-attachments/assets/390179e9-1d0d-4f1e-aa2c-5a096756c8e2" />
+<img width="451" height="342" alt="image" src="https://github.com/user-attachments/assets/277c03f7-d3ac-4ea9-9c83-958017413306" />
 </p>
 
 <p>
@@ -222,8 +222,8 @@ Selected Standard Configuration during MySQL setup and continued with the defaul
 <br />
 
 <p>
-<img width="496" height="377" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="495" height="382" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="451" height="346" alt="image" src="https://github.com/user-attachments/assets/d57ab494-6e6e-4134-ab68-fd2d88d07884" />
+<img width="455" height="342" alt="image" src="https://github.com/user-attachments/assets/7b313a34-5c11-40cb-ab55-6b8b8ce1045e" />
 </p>
 
 <p>
@@ -239,7 +239,7 @@ These credentials are only for the lab environment.
 ### Step 6: Configure IIS and PHP
 
 <p>
-<img width="1421" height="750" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="720" height="382" alt="image" src="https://github.com/user-attachments/assets/0790c6e2-c487-46eb-b8f1-3b9cea4f34f6" />
 </p>
 
 <p>
@@ -248,8 +248,8 @@ Opened Internet Information Services (IIS) Manager as Administrator from the Win
 <br />
 
 <p>
-<img width="1420" height="751" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="1423" height="744" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="852" height="627" alt="image" src="https://github.com/user-attachments/assets/a0e38780-7435-4769-bea9-ac748d6bad01" />
+<img width="852" height="642" alt="image" src="https://github.com/user-attachments/assets/9b273026-0201-491a-a0f5-07a8e256aefd" />
 </p>
 
 <p>
@@ -262,8 +262,7 @@ This allows IIS to process PHP files properly.
 <br />
 
 <p>
-<img width="1423" height="749" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="206" height="691" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/a67d36a2-0307-4d9c-a27a-f0b9d3ec8ff3" />
 </p>
 
 <p>
@@ -274,8 +273,10 @@ Restarted IIS services to apply all PHP configuration changes to the web server.
 ### Step 7: Install osTicket
 
 <p>
-<img width="1121" height="627" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="1124" height="820" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="1102" height="695" alt="image" src="https://github.com/user-attachments/assets/47495368-a9b4-43ad-83e8-f5024d6c6090" />
+<img width="857" height="975" alt="image" src="https://github.com/user-attachments/assets/0e2badc2-8f7c-4f00-b0d7-c8e053da3562" />
+<img width="690" height="582" alt="image" src="https://github.com/user-attachments/assets/a1958761-4e77-4376-a707-294cc4734867" />
+
 </p>
 
 <p>
@@ -288,8 +289,9 @@ The upload folder was renamed to osTicket.
 <br />
 
 <p>
-<img width="1421" height="747" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="916" height="924" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="852" height="517" alt="image" src="https://github.com/user-attachments/assets/db1138ac-fc23-4a40-9849-2bd701a6eaef" />
+<img width="857" height="476" alt="image" src="https://github.com/user-attachments/assets/674027b7-d396-4e58-8a3a-e879daf0d967" />
+<img width="752" height="672" alt="image" src="https://github.com/user-attachments/assets/2efeb7c5-6c7d-4453-a71c-29d7c7e944cd" />    
 </p>
 
 <p>
