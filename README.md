@@ -118,9 +118,8 @@ Inside the virtual machine, I downloaded the osTicket Installation Files package
 ### Step 4: Install and Enable IIS with CGI
 
 <p>
-<img width="1118" height="628" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="1121" height="626" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="412" height="369" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="1022" height="567" alt="image" src="https://github.com/user-attachments/assets/0260a3ad-883d-4c61-985f-341cfceca842" />
+<img width="1027" height="582" alt="image" src="https://github.com/user-attachments/assets/c05688af-077e-4d84-9eba-435746e801a2" />
 </p>
 
 <p>
@@ -129,8 +128,8 @@ Opened Control Panel and navigated to Programs -> Programs and Features -> Turn 
 <br />
 
 <p>
-<img width="1123" height="630" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="450" height="425" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="500" height="337" alt="image" src="https://github.com/user-attachments/assets/4b2edd18-b061-42ee-aa67-dfde2f6aeeaf" />
+<img width="381" height="332" alt="image" src="https://github.com/user-attachments/assets/40d82bbc-48ad-4459-bf61-65118a824415" />
 </p>
 
 <p>
@@ -138,7 +137,7 @@ Enabled Internet Information Services (IIS) and enabled CGI under World Wide Web
 </p>
 
 <p>
-<img width="918" height="947" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="792" height="620" alt="image" src="https://github.com/user-attachments/assets/df322961-1c89-4935-95c2-8a8fe0cafacc" />
 </p>
 
 <p>
@@ -149,25 +148,25 @@ Verified IIS installation by entering the loopback address 127.0.0.1 into the we
 ### Step 5: Install Required Components
 
 <p>
-<img width="1118" height="631" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="730" height="422" alt="image" src="https://github.com/user-attachments/assets/e7e40664-83f4-4519-bca0-9efd705e91a9" />
 </p>
 
 <p>
-Installed PHP Manager for IIS from the osTicket Installation Files folder. PHP Manager allows IIS to manage PHP configurations.
-</p>
-<br />
-
-<p>
-<img width="1122" height="631" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-</p>
-
-<p>
-Installed the IIS URL Rewrite Module which is required for proper osTicket URL functionality.
+Installed "PHPManagerForIIS_V1.5.0" for IIS from the osTicket Installation Files folder. PHP Manager allows IIS to manage PHP configurations.
 </p>
 <br />
 
 <p>
-<img width="1122" height="634" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="762" height="430" alt="image" src="https://github.com/user-attachments/assets/cebcfb31-4f5f-4a33-92a9-aa954d638c1e" />
+</p>
+
+<p>
+Installed the IIS URL Rewrite Module, which is required for proper osTicket URL functionality.
+</p>
+<br />
+
+<p>
+<img width="611" height="582" alt="image" src="https://github.com/user-attachments/assets/aadb104f-1948-4ccc-a2b0-457ed2476581" />
 </p>
 
 <p>
@@ -176,29 +175,29 @@ Created a folder named PHP directly on the C drive at C:\PHP to store the PHP ru
 <br />
 
 <p>
-<img width="1033" height="737" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="1072" height="476" alt="image" src="https://github.com/user-attachments/assets/7d40b620-225a-4f24-8a00-21acd8e9f452" />
 </p>
 
 <p>
-Extracted the PHP files into the C:\PHP directory from the osTicket installation package.
-</p>
-<br />
-
-<p>
-<img width="1129" height="638" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-</p>
-
-<p>
-Installed the Microsoft Visual C++ Redistributable package required for PHP runtime dependencies.
+Extracted the "php-7.3.8-nts-Win32-VC15-x86" files into the C:\PHP directory from the osTicket installation package.
 </p>
 <br />
 
 <p>
-<img width="1118" height="629" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="450" height="582" alt="image" src="https://github.com/user-attachments/assets/113f8fe0-3c26-4998-940b-20226d3992d0" />
 </p>
 
 <p>
-Installed MySQL Server which will host the osTicket database and store all ticketing information and user data.
+From the "osTicket-Installation-Files" folder, install "VC_redist.x86". This will satisfy the runtime dependencies necessary for PHP to function correctly within the IIS environment.
+</p>
+<br />
+
+<p>
+<img width="456" height="581" alt="image" src="https://github.com/user-attachments/assets/7db1fad8-1dac-4d5c-bccc-d0bd676bbbb9" />
+</p>
+
+<p>
+Installed MySQL Server, which will host the osTicket database and store all ticketing information and user data.
 </p>
 <br />
 
