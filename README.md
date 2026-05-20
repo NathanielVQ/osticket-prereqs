@@ -300,9 +300,9 @@ Reloaded IIS and navigated to Sites -> Default Web Site -> osTicket -> Browse *:
 <br />
 
 <p>
-<img width="1419" height="744" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="1419" height="749" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="497" height="255" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="850" height="510" alt="image" src="https://github.com/user-attachments/assets/30bb5269-c98b-40fb-a899-7586f68569a3" />
+<img width="852" height="632" alt="image" src="https://github.com/user-attachments/assets/503c468b-aad9-4c32-a32e-6c505341fa31" />
+<img width="837" height="505" alt="image" src="https://github.com/user-attachments/assets/31fb82e1-1b6f-4f1d-b144-9deb8f216b6d" />
 </p>
 
 <p>
@@ -317,7 +317,7 @@ These extensions are required for osTicket functionality.
 <br />
 
 <p>
-<img width="1125" height="632" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="622" height="592" alt="image" src="https://github.com/user-attachments/assets/fc5c60f5-e640-48ba-9254-9bccac713195" />
 </p>
 
 <p>
@@ -334,9 +334,13 @@ inside the osTicket include directory.
 <br />
 
 <p>
-<img width="915" height="595" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="912" height="589" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="766" height="517" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="615" height="577" alt="image" src="https://github.com/user-attachments/assets/3a4bc09b-aacc-4111-9552-e021a7ef159b" />
+<img width="332" height="460" alt="image" src="https://github.com/user-attachments/assets/f1f62108-f56c-4c9c-ac97-8fb06a0a72ab" />
+<img width="697" height="471" alt="image" src="https://github.com/user-attachments/assets/99376d15-37b9-4f39-87f5-cf9a193d3ffd" />
+<img width="840" height="540" alt="image" src="https://github.com/user-attachments/assets/8a3f7ad0-e73a-4710-a070-86f1cff89cc7" />
+<img width="840" height="536" alt="image" src="https://github.com/user-attachments/assets/389995e1-35da-4686-90bb-6af1ae837eb8" />
+<img width="702" height="467" alt="image" src="https://github.com/user-attachments/assets/dc4f919e-0dd1-4d01-b1d2-7ce71175324d" />
+
 </p>
 
 <p>
@@ -344,11 +348,23 @@ Modified file permissions for ost-config.php by disabling inheritance and assign
 </p>
 <br />
 
+<p>
+<img width="737" height="672" alt="image" src="https://github.com/user-attachments/assets/e8c3670a-bd12-4abb-aabe-6335e4bd5d06" />
+<img width="502" height="617" alt="image" src="https://github.com/user-attachments/assets/1edf191d-f6f5-482d-a726-fb527734f4e7" />
+</p>
+<p>
+Continue setting up osTicket in the browser (Continue). Filled out System Settings, Admin User, and Database Settings. For the Admin User username and password:
+    
+    - Username: adminuser
+    - Password: Password1
+</p>
+<br />
+
 ### Step 8: Configure HeidiSQL and Create Database
 
 <p>
-<img width="1122" height="629" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="778" height="606" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="622" height="586" alt="image" src="https://github.com/user-attachments/assets/e7aefca7-7a02-4f05-b22e-a76dba649341" />
+<img width="547" height="421" alt="image" src="https://github.com/user-attachments/assets/dd56b936-3636-49ec-96db-401a575241a2" />
 </p>
 
 <p>
@@ -357,7 +373,9 @@ Installed HeidiSQL and launched the application to connect to the MySQL database
 <br />
 
 <p>
-<img width="683" height="479" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="636" height="427" alt="image" src="https://github.com/user-attachments/assets/7e0c1fce-cf96-417b-93e1-be8b6429c121" />
+<img width="631" height="422" alt="image" src="https://github.com/user-attachments/assets/827694e1-2044-40fd-8416-97075b342b06" />
+
 </p>
 
 <p>
@@ -366,7 +384,8 @@ Created a new database session using the MySQL root credentials configured earli
 <br />
 
 <p>
-<img width="931" height="590" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="840" height="540" alt="image" src="https://github.com/user-attachments/assets/c101c195-09e9-4a7f-b4cb-1782d8bdcd20" />
+<img width="842" height="535" alt="image" src="https://github.com/user-attachments/assets/d4ee040f-725b-4a01-8e02-f46f9eef2d16" />
 </p>
 
 <p>
@@ -377,7 +396,8 @@ Created a new database named "osTicket" which will store all help desk applicati
 ### Step 9: Complete osTicket Installation
 
 <p>
-<img width="816" height="910" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="837" height="540" alt="image" src="https://github.com/user-attachments/assets/29e948a7-f150-46bf-b7ea-816b66ba351f" />
+
 </p>
 
 <p>
@@ -386,7 +406,7 @@ Completed the osTicket setup wizard by entering the Help Desk Name, Administrato
 <br />
 
 <p>
-<img width="816" height="433" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="462" height="347" alt="image" src="https://github.com/user-attachments/assets/0b65a635-5073-4261-950c-032fa0138fdf" />
 </p>
 
 <p>
@@ -401,20 +421,20 @@ Clicked Install to finalize the deployment.
 <br />
 
 <p>
-<img width="914" height="722" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="932" height="592" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="755" height="587" alt="image" src="https://github.com/user-attachments/assets/19fc42e7-2219-42cb-b93f-ab86aa6d5eee" />
+<img width="832" height="545" alt="image" src="https://github.com/user-attachments/assets/89c7d274-425a-46a4-b1d4-73eba33b2075" />
 </p>
 
 <p>
-osTicket successfully installed and automatically created the required database tables inside MySQL.
+osTicket was successfully installed and automatically created the required database tables inside MySQL.
 </p>
 <br />
 
 ### Step 10: Access osTicket
 
 <p>
-<img width="898" height="918" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
-<img width="899" height="564" alt="image" src="YOUR-IMAGE-LINK-HERE"/>
+<img width="756" height="582" alt="image" src="https://github.com/user-attachments/assets/97526e97-3738-4f67-a58a-9fa3e2233e03" />
+<img width="822" height="710" alt="image" src="https://github.com/user-attachments/assets/fee9def3-eb3d-439d-ab09-f2085885d3a0" />
 </p>
 
 <p>
